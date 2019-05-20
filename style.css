@@ -1,6 +1,9 @@
 html, body {
-  margin: 0;
-  padding: 0;
+  background-color: blue
+  max-width: 1500px;
+  CENTER
+  margin: auto;
+
 }
 canvas {
   display: block;
